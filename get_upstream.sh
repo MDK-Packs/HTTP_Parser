@@ -10,7 +10,7 @@
 #
 # Upstream repository, tag and local target directory
 UPSTREAM_URL=https://github.com/nodejs/http-parser
-UPSTREAM_TAG=v2.9.2
+UPSTREAM_TAG=v2.9.4
 TARGET_DIR=local
 
 if [ $# -gt 1 ]; then
